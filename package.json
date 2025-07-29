@@ -10,4 +10,8 @@
   "author": " Moncrief Frazier",
   "license": "ISC",
   "type": "commonjs"
+  "dependencies": {
+    "package-name": "freecodecamp",
+  "express": "1.2.13"
+  }
 }
