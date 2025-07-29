@@ -9,9 +9,10 @@
   "keywords": ["descriptive", "related", "words","freecodecamp" ],
   "author": " Moncrief Frazier",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
   "dependencies": {
-    "package-name": "freecodecamp",
-  "express": "1.2.13"
+    "package-name": "@freecodecamp/example",
+    "package": "^1.2.13"
   }
+
 }
